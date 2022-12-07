@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>404 Error. Not found.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Language" content="en" />
+<meta http-equiv="Cache-control" content="public" />
+<meta name="expires" content="Sat, 06 Aug 22 08:58:36 +0300" />
+<meta name="name" content="PngImg.com" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel="stylesheet" type="text/css" href="/distr/css/foundation.min.css" />
+<link rel="stylesheet" type="text/css" href="/distr/css/style.css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "http://pngimg.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "http://pngimg.com/search/?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+
+    </script>
+<style type="text/css">
+        @font-face
+
+        {font-family:Scada;font-style:normal;font-weight:400;src:local('Scada'),local('Scada-Regular'),url(//fonts.gstatic.com/s/scada/v4/4V2xlVZXPBAtjb_L2VYlOg.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face
+
+        {font-family:Scada;font-style:normal;font-weight:400;src:local('Scada'),local('Scada-Regular'),url(//fonts.gstatic.com/s/scada/v4/eHF4KKeSCcrmp9P5oMFqsA.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face
+
+        {font-family:Scada;font-style:normal;font-weight:400;src:local('Scada'),local('Scada-Regular'),url(//fonts.gstatic.com/s/scada/v4/E0waVAszb-SujpxhAtSawg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face
+
+        {font-family:Scada;font-style:normal;font-weight:700;src:local('Scada Bold'),local('Scada-Bold'),url(//fonts.gstatic.com/s/scada/v4/LTpk59254jTJjfuPaPglkBTbgVql8nDJpwnrE27mub0.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face
+
+        {font-family:Scada;font-style:normal;font-weight:700;src:local('Scada Bold'),local('Scada-Bold'),url(//fonts.gstatic.com/s/scada/v4/FO3721XO0fjw14wb89oLbhTbgVql8nDJpwnrE27mub0.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face
+
+        {font-family:Scada;font-style:normal;font-weight:700;src:local('Scada Bold'),local('Scada-Bold'),url(//fonts.gstatic.com/s/scada/v4/9zpfvsizuBBpRE5si-FM8PesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}
+    </style>
+</head>
+<body>
+<div class="row">
+<div class="large-2 small-5 columns like_share">
+<div id="fb-root"></div>
+<script type="text/javascript">(function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=514315045345774&version=v2.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+<div class="fb-like" data-href="http://pngimg.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+</div>
+<div class="large-4 small-7 columns like_share">
+</div>
+<div class="large-2 small-12 columns like_share" style="text-align: right;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+ <input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="97ZP5P7NHYATS">
+<input type="image" src="/distr/img/btn_donate_lg.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+</div>
+</div>
+<div class="row top-logo">
+<div class="large-3 logo_div columns">
+<a href="/" class="none"><span class="logo"><span class="logo_title">pngimg</span>.com</span></a>
+<h1>PNG images and cliparts for web design</h1>
+</div>
+<div class="large-9 columns search-block">
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<script async src="https://cse.google.com/cse.js?cx=d6e65f5af13596ba2"></script>
+<div class="gcse-search"></div>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns main_content">
+<a href="https://pngimg.com">Home</a> &raquo; <a href="https://pngimg.com//"></a> &raquo; <a href="https://pngimg.com/"></a> Error <center><font color='red'><b>Error. <br />Sorry, there is no such page!</b></font><br /><br /><a href="https://pngimg.com">Go to main page</a></center> <br /><br /> </div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div class="footer_menu"><a href="/about">About</a> &nbsp; | &nbsp; <a href="/license">License</a> &nbsp; |
+&nbsp; <a href="https://pngimg.com/cookie.html" target="_blank">Cookie consent</a> &nbsp; | &nbsp; <a href="/contacts">Contacts</a></div>
+</div>
+<div class="large-9 columns copyright">
+<span class="small_logo"><span class="small_logo_title">pngimg</span>.com</span> Copyright &copy; 2013
+- 2022. Free PNG images, pictures and cliparts for design and web design
+<div style="padding-top:7px;">
+<a href="https://www.facebook.com/pngimg" rel="nofollow" target="_blank"><img src="/distr/img/fb.jpg" border="0" alt="Facebook" title="Facebook" /></a> &nbsp;
+<a href="https://twitter.com/PngImgCom" rel="nofollow" target="_blank"><img src="/distr/img/twitter.jpg" border="0" alt="Twitter" title="Twitter" /></a> &nbsp;
+<a href="https://www.instagram.com/pngimagescom/" rel="nofollow" target="_blank"><img src="/distr/img/instagram.jpg" border="0" alt="Instagram" title="Instagram" /></a> &nbsp;
+</div>
+</div>
+<div class="large-3 columns copyright text-right">
+<noindex>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72389769-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72389769-1');
+</script></noindex>
+</div>
+</div>
+</body>
+</html>
